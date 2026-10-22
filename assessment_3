@@ -1,0 +1,20 @@
+# Command-line Cheatsheet 
+**commands we will be going over:**
+```
+1. pwd
+2. ls
+4. cd <folder>
+5. cd ..
+6. mkdir <name>
+7. touch <name>
+```
+## Introducing.. ***mkdir <_name_>!***
+mkdir <_name_> *creates a new **folder**!
+> funfact about it: these → '<__>' aren't necessary! you can simply create a folder by coding "mkdir" **press space** before typing whatever title you wish to give your folder! Here's an example: 'mkdir project' will create a folder named "project".
+___
+## Introducing.. **touch <_file_>!**
+touch <_file_> *creates a new **file**!
+> funfact: similar to mkdir, touch <_file_> does not require '<__>', you can simply code "touch" **press space** before typing the title you wish to give your file! Here's an example: 'touch notes' will create a file named "notes.md"
+___
+## Introducing.. Both **cd ..** and **cd <_folder_>**
+**cd <_folder_>** changes your directory *(in simple terms: it helps you move to another folder)*
