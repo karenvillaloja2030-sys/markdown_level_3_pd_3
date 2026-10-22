@@ -1,20 +1,36 @@
-# Command-line Cheatsheet 
+![header](https://media.licdn.com/dms/image/v2/D4E16AQHDTzt2M9UFRQ/profile-displaybackgroundimage-shrink_200_800/B4EZXKtC.aHgAk-/0/1742862561985?e=2147483647&v=beta&t=LCI3Unuwuto3ZfMnX6EDfsBvruqFkC4wJkvT5gbtXbs)
+# 💻*Command-line Cheatsheet*💻
 **commands we will be going over:**
 ```
 1. pwd
 2. ls
-4. cd <folder>
-5. cd ..
-6. mkdir <name>
-7. touch <name>
+3. cd <folder>
+4. cd ..
+5. mkdir <name>
+6. touch <name>
 ```
-## Introducing.. ***mkdir <_name_>!***
+## Introducing.. `mkdir <name>`!
 mkdir <_name_> *creates a new **folder**!
 > funfact about it: these → '<__>' aren't necessary! you can simply create a folder by coding "mkdir" **press space** before typing whatever title you wish to give your folder! Here's an example: 'mkdir project' will create a folder named "project".
 ___
-## Introducing.. **touch <_file_>!**
+## Introducing.. `touch <file>`!
 touch <_file_> *creates a new **file**!
 > funfact: similar to mkdir, touch <_file_> does not require '<__>', you can simply code "touch" **press space** before typing the title you wish to give your file! Here's an example: 'touch notes' will create a file named "notes.md"
 ___
-## Introducing.. Both **cd ..** and **cd <_folder_>**
-**cd <_folder_>** changes your directory *(in simple terms: it helps you move to another folder)*
+## Introducing.. Both `cd ..` and `cd <folder>`!
+- **cd <_folder_>** changes your directory *(in simple terms: it helps you move to another folder)*
+
+- **cd ..** makes you go back a directory *(in simple terms it is: used to go back to the previous folder)*
+> Funfact: cd <_folder_> and cd .. are opposites! one takes you to another folder the other takes you to the previous folder! Also, similar to mkdir and touch, the '<__>' are not required for cd <_folder_>!
+___
+## Introducing...  `pwd!`
+pwd shows current directory *(or in simpler terms: It shows the folder you're currently in)
+> this is really helpful whenever you're unsure or forgot on which folder you're in.
+## Introducing.. `ls`!
+ls lists directory files (or in simpler form: It lists out all the files you've created inside your folder)
+> this is really helpful when you want to chech how many files you've added to a folder or when you just want to double check you have all the files you need or check that you named them correctly!
+___
+Where you will be using this cheatsheet?
+- [Github](https://github.com/)
+
+!!! Also remember that these commands can **only** be typed on the ***Terminal*** !!!
